@@ -1,3 +1,5 @@
+![logo](https://github.com/harshil1204/harshil1204/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Harshil! Great to see you here!</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -33,3 +35,5 @@ I am <b>Harshil Ribadiya</b>, Recently completed my <b>B.sc(it)</b> degree in <b
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshil1204&show_icons=true&locale=en" alt="harshil1204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshil1204&" alt="harshil1204" /></p>
+
+![Profile views](https://komarev.com/ghpvc/?username=harshil1204&style=flat-square&color=blue)
