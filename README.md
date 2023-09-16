@@ -18,6 +18,9 @@ I am <b>Harshil Ribadiya</b>, Recently completed my <b>B.sc(it)</b> degree in <b
 
 - ⚡ Fun fact **I think I am funny guy 😄**
 
+[![Harshil's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshil1204&theme=react-dark)](https://github.com/harshil1204)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/harshil-ribadiya-82952a228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/harshil-ribadiya-82952a228" height="30" width="40" /></a>
