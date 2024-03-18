@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Harshil! Great to see you here!</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-I am <b>Harshil Ribadiya</b>, Recently completed my <b>B.sc(it)</b> degree in <b>Information Technology</b> from <b>[K. S. School of Business Management & Information Technology]</b>. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:<br/>
+I am <b>Harshil Ribadiya</b>, Highly skilled Flutter developer with 1 years of experience in building and deploying cross-
+
+platform mobile applications for Android and iOS. Proficient in Dart programming language and
+
+well-versed in the Flutter SDK, widgets, animations, and state management. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:<br/>
 
 
 <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
